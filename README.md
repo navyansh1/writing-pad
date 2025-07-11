@@ -1,7 +1,7 @@
 # GuardNote
 GuardNote is a secure, privacy-focused digital notebook that runs entirely in your browser. It uses your own private GitHub Gists for optional cloud synchronization, ensuring your notes remain completely under your control.
 
-**Live Demo:** [**https://navyansh1.github.io/writing-pad/**](https://navyansh1.github.io/writing-pad/)
+**Live Demo:** [**https://guardnote.vercel.app**](https://guardnote.vercel.app)
 
 ## Features
 
