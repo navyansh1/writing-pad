@@ -17,7 +17,7 @@ GuardNote is a secure, privacy-focused digital notebook that runs entirely in yo
 ## How to Use
 
 ### Local Usage
-Simply open the `index.html` file (or visit the [live demo](https://navyansh1.github.io/writing-pad/)) in your browser. All your notes will be saved locally on your device.
+Simply open the `index.html` file (or visit the [live demo](https://guardnote.vercel.app)) in your browser. All your notes will be saved locally on your device.
 
 ### Setting Up Cloud Sync
 
