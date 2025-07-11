@@ -1,6 +1,4 @@
 # GuardNote
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/navyansh1/writing-pad)
-
 GuardNote is a secure, privacy-focused digital notebook that runs entirely in your browser. It uses your own private GitHub Gists for optional cloud synchronization, ensuring your notes remain completely under your control.
 
 **Live Demo:** [**https://navyansh1.github.io/writing-pad/**](https://navyansh1.github.io/writing-pad/)
